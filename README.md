@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **villalobosrojas22@gmail.com**
 
-- ⚡ Fun fact **I watching One Piece and waiting for the next episode**
+- ⚡ Fun fact **I'm watching One Piece and waiting for the next episode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
