@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs and PHP**
 
-- 👨‍💻 All of my projects are available at [lenvr.github.io/portoflio/](lenvr.github.io/portoflio/)
+- 👨‍💻 All of my projects will be available soon, I'm working on a my portfolio
 
 - 💬 Ask me about **Javascript, Python, HTML & CSS**
 
