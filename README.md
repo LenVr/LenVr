@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs and PHP**
 
-- 👨‍💻 All of my projects are available at <a href: "lenvr.github.io/portoflio/" target: '_blank />My portfolio</a>
+- 👨‍💻 All of my projects are available at [lenvr.github.io/portoflio/](lenvr.github.io/portoflio/)
 
 - 💬 Ask me about **Javascript, Python, HTML & CSS**
 
