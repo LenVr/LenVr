@@ -1,5 +1,5 @@
 <h1 align="center">Helloo I'm Len</h1>
-<h3 align="center">A passionate web developer from Costa Rica</h3>
+<h3 align="center">A passionate developer from Costa Rica</h3>
 
 - Hi I'm currently working on **Dash_Blocks**
 
