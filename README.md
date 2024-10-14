@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I'm watching One Piece and reading Fullmetal alchemist**
 
 ## 🌐 Socials:
-[![Discord: LenVr](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-l-villalobos-rojas-8a5172220/) 
+[!LenVr[Discord: LenVr](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-l-villalobos-rojas-8a5172220/) 
 
 
 # 💻 Tech Stack:
