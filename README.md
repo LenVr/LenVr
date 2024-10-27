@@ -3,7 +3,7 @@
 
 - Hi I'm currently working on **some secret projects**
 
-- 🌱 I’m currently learning **ReactJs and PHP**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://lenvr.github.io/portfolio/)
 
